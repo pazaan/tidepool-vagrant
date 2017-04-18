@@ -3,6 +3,10 @@ Tidepool-vagrant
 
 A Vagrant configuration to create a VM and check out all of the Tidepool repositories to get you developing on [Tidepool](http://tidepool.org) as quickly as possible.
 
+DEPRECATED
+----------
+This repo has been merged into [Tidepool's `tools` repository](https://github.com/tidepool-org/tools). You should use that instead :smile:
+
 Prerequisites
 -------------
 To use this `Vagrantfile`, you need to have [Vagrant](https://www.vagrantup.com/) installed, as well as one of the following VM providers:
